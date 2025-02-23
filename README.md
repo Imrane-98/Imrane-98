@@ -2,9 +2,9 @@
 
 I'm [**Imrane**](https://imrane-98.github.io/Imrane-s-Personal-Portfolio/), an **AI Engineer** from **Oran**, **Algeria**.
 
-I am primarily interested in **artificial intelligence** and **data science**.
+I'am primarily interested in **artificial intelligence** and **data science**.
 
-I am eager to delve into the realms of data science and full-stack development, driven by a passion for creating impactful solutions. I am enthusiastic about learning and honing my skills to contribute meaningfully to projects of significance.
+I'am eager to delve into the realms of data science and full-stack development, driven by a passion for creating impactful solutions. I am enthusiastic about learning and honing my skills to contribute meaningfully to projects of significance.
 
 Outside of work I find fulfillment in fitness, chess, and staying informed about the latest developments in science.
 
