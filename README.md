@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-I'm [**Imrane**](https://imrane-98.github.io/Imrane-s-Personal-Portfolio/), a AI Engineer from Oran, Algeria.
+I'm [**Imrane**](https://imrane-98.github.io/Imrane-s-Personal-Portfolio/), an **AI Engineer** from **Oran**, **Algeria**.
 
 I am primarily interested in **artificial intelligence** and **data science**.
 
