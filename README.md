@@ -2,7 +2,7 @@
 
 I'm [**Imrane**](https://imrane-98.github.io/Imrane-s-Personal-Portfolio/), a software engineer from Oran, Algeria.
 
-I am primarily interested in **data science** and **full-stack development**.
+I am primarily interested in **artificial intelligence** and **data science**.
 
 I am eager to delve into the realms of data science and full-stack development, driven by a passion for creating impactful solutions. I am enthusiastic about learning and honing my skills to contribute meaningfully to projects of significance.
 
